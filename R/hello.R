@@ -17,5 +17,6 @@ hello <- function() {
   print("Hello, world! from pkg2")
   pkg1::hello()
   pkg3::hello()
+  pkg4::hello()
   print("-------------")
 }

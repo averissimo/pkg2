@@ -15,4 +15,4 @@ jobs:
       lookup-refs: |
         averissimo/pkg1
         averissimo/pkg3
-        averissimo/pkg4
+        pkg4=averissimo/r-pkg4
